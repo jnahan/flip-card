@@ -83,7 +83,7 @@ a {
 
 .flip-card-front {
   background-color: #FDF4ED;
-  background-image: url("/images/background.png");
+  background-image: url("images/background.png");
   color: black;
 }
 
